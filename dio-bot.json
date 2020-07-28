@@ -1,0 +1,12 @@
+{
+  "type": "TESTE",
+  "project_id": "TESTE",
+  "private_key_id": "TESTE",
+  "private_key": "TESTE",
+  "client_email": "TESTE",
+  "client_id": "TESTE",
+  "auth_uri": "TESTE",
+  "token_uri": "TESTE",
+  "auth_provider_x509_cert_url": "TESTE",
+  "client_x509_cert_url": "TESTE"
+}
